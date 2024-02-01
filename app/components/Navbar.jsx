@@ -26,7 +26,7 @@ const Navbar = () => {
           </li>
           <hr />
           <li className="text-white text-2xl">
-            <Link href="/services">Services</Link>
+            <Link href="/Features">Features</Link>
           </li>
           <hr />
           <li className="text-white text-2xl">
