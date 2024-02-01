@@ -19,6 +19,7 @@ module.exports = {
       "Btn":"url('/assets/rectangle.png')",
       'Img':"url('/assets/Vector_image.png')",
       'Img':"url('/assets/freepic_image.png')",
+      'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))'
     },
   },
   plugins: [],

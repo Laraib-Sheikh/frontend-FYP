@@ -73,7 +73,7 @@ const ContactForm = () => {
           <div 
           id="login_button"
           className="flex items-center text-2xl rounded-lg justify-between  mt-5">
-            <Button title={"Login"} />
+            <Button title={"Login"}/>
           </div>
         </div>
 
