@@ -32,6 +32,10 @@ const Navbar = () => {
           <li className="text-white text-2xl">
             <Link href="/contact_us">Contact Us</Link>
           </li>
+          <hr />
+          <li className="text-white text-2xl">
+            <Link href="/chat_screen">chat Screen</Link>
+          </li>
         </ul>
       </div>
       <div className="flex items-center space-x-4 mr-20 mb-8 pt-4">
